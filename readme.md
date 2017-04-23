@@ -69,6 +69,6 @@ InsertAtEnding5000Benchmark.linkedListInsertAtEnding                            
 
 ## Окружение
 
-Windows 7 x64
-Java HotSpot(TM) 64-Bit Server VM (build 25.45-b02, mixed mode)
-Intel core i7 4770
+- Windows 7 x64
+- Java HotSpot(TM) 64-Bit Server VM (build 25.45-b02, mixed mode)
+- Intel core i7 4770
